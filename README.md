@@ -6,7 +6,7 @@ RedOakCoin-Master
 =================
 Source Code For RedOakCoin has been published but still needs work.
 https://github.com/RedOakCoin/ROC-Master
-
+<br><br>
 To Be Done:
 1) Add Subsidy Decay Formula To Main.Cpp
   1b) Calculations Show We Need A 2-4 Week Offset To Account For Unforseen Difficulty Fluctuations
