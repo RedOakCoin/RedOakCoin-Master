@@ -1,4 +1,14 @@
 RedOakCoin-Master
+<br><br>
+Update (3/23/14 - 4:36 AM EST): Pushing Back March 22nd Release<br>
+1- Altered Decay Function For Higher Accuracy & Stability<br>
+2- Decay Function Required A +27,000,000 Coin Compensation : Created A Nice Opening Bonus Term<br>
+3- Raised Our Initial Subsidy From 73 * Coin (Compenstatsfor an otherwise long * Coin term or a x10,000% * Coin term)
+3- Updating Charts<br>
+4- Updated Logo Ready<br>
+5- Preparing Social Media<br>
+~Thanks Goes Out To The ROC Team For Helping Out!!!<br>
+<br><br>
 =================
 
 "Strength Within, Wisdom Throughout - The Secure Cryptocurrency resolute in its fiscal elasticity, and its perpetually bound and committed team."
