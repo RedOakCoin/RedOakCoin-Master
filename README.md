@@ -1,5 +1,13 @@
 RedOakCoin-Master
 <br><br>
+Update (7/20/14 - 1:25 AM EST): Launch Imminent<br>
+1- Full OpenSSL Update<br>
+2- Completed Source<br>
+3- Patiently Waited For Proper Industry Timing<br>
+4- Website At 90% Completion<br>
+5- Team Prepared & Publicists On Stand-By<br>
+6- Ready & Awaiting Launch :)<br>
+<br><br>
 Update (3/23/14 - 4:36 AM EST): Pushing Back March 22nd Release<br>
 1- Altered Decay Function For Higher Accuracy & Stability<br>
 2- Decay Function Required A +27,000,000 Coin Compensation : Created A Nice Opening Bonus Term<br>
