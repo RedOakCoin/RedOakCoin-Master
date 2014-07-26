@@ -15,12 +15,12 @@ Update (7/25/14 - 7:34 AM EST): Launch Status: Imminent<br>
 
 <br>
 RedOakCoin-Core Notes:<br>
-#rOc:$ Core Is A Mixed Fork -> Between Litecoin (Crypto:LTC) & Feathercoin (Crypto:FTC)<br>
-#rOc:$ FTC Was Chosen For Their Upgrades To Security & Advanced CheckPointing<br>
-#rOc:$ In Addition They Have Also Infused Key Portions From PPcoin & Primecoin<br>
-#rOc:$ Naturally, Redoakcoin, Is Running Full Scrypt: We Don't Feel It Necessary To Upgrade To Scrypt-N, Though We Are Open<br>
-#rOc:$ We Are All Pleased To Be Able To Meet Our Goal ( Albeit A Later Date ) For Security & Stability<br>
-#rOc:$ Our Core Vision Remains True: Stability, Security, Simplicity, Universality, & Long-Term Growth<br>
+rOc:$ Core Is A Mixed Fork -> Between Litecoin (Crypto:LTC) & Feathercoin (Crypto:FTC)<br>
+rOc:$ FTC Was Chosen For Their Upgrades To Security & Advanced CheckPointing<br>
+rOc:$ In Addition They Have Also Infused Key Portions From PPcoin & Primecoin<br>
+rOc:$ Naturally, Redoakcoin, Is Running Full Scrypt: We Don't Feel It Necessary To Upgrade To Scrypt-N, Though We Are Open<br>
+rOc:$ We Are All Pleased To Be Able To Meet Our Goal ( Albeit A Later Date ) For Security & Stability<br>
+rOc:$ Our Core Vision Remains True: Stability, Security, Simplicity, Universality, & Long-Term Growth<br>
 
 <br><br>
 Update (7/20/14 - 1:25 AM EST): Launch Imminent<br>
