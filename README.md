@@ -1,5 +1,28 @@
 RedOakCoin-Master
 <br><br>
+Update (7/25/14 - 7:34 AM EST): Launch Status: Imminent<br>
+1- Ran Full TestNet Tests For Modified Decay Formula
+   1b- Used HardFork 'nForkDelta' Code<br>
+   1c- Initial ROC-Block Reward Maintains Difficulty & Decays Falwlessly Post-nForkDelta FloodGates<br>
+2- MainNode Server Is Online (TestNet A.T.M.)<br>
+3- ReVamped Base Source For Difficulty ReTarget Adjustment %'s, Rates, & Equilibrium<br>
+5- ReCoded Bash-*.Sh Program To SetUp Nodes [ Will Publish Soon ]<br>
+6- Preparing Team For BlockChain Management<br>
+   6a- We Intentionally HardForked & Damanged TestNet BlockChain<br>
+   6b- We Are Very Pleased With The LTC-Source & Its Security Measures<br>
+   6c- I Am Glad To Have A Team Willing To Learn How To Address & Execute BlockChain Issues<br>
+7- Core Source Has Been OutFitted To Respond To Issues, Changes, Needs, & Potiential Bugs We Face Ourselves Or The CryptoNetwork As A Whole May Expirence & Require Of Us<br>
+
+<br>
+RedOakCoin-Core Notes:<br>
+#rOc:$ Core Is A Mixed Fork -> Between Litecoin (Crypto:LTC) & Feathercoin (Crypto:FTC)<br>
+#rOc:$ FTC Was Chosen For Their Upgrades To Security & Advanced CheckPointing<br>
+#rOc:$ In Addition They Have Also Infused Key Portions From PPcoin & Primecoin<br>
+#rOc:$ Naturally, Redoakcoin, Is Running Full Scrypt: We Don't Feel It Necessary To Upgrade To Scrypt-N, Though We Are Open<br>
+#rOc:$ We Are All Pleased To Be Able To Meet Our Goal ( Albeit A Later Date ) For Security & Stability<br>
+#rOc:$ Our Core Vision Remains True: Stability, Security, Simplicity, Universality, & Long-Term Growth<br>
+
+<br><br>
 Update (7/20/14 - 1:25 AM EST): Launch Imminent<br>
 1- Full OpenSSL Update<br>
 2- Completed Source<br>
