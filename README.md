@@ -1,5 +1,14 @@
 RedOakCoin-Master
 <br><br>
+Update (8/16/14 - 1:56 AM EST): Launch Status: Days Away<br>
+1- Uploaded 90% Core /src Files<br>
+2- Withholding Main.Cpp & Main.h until 24-Hrs Prior Launch<br>
+3- Same with *Makefiles and /qt Files<br>
+4- This is being done for our teams final, pending review, and security for launch<br>
+5- ROC Core = 100% Completed & Operational<br>
+6- TBD: We may hold release to adjust some Blockchain Security Mathmatics to avoid future HardForks<br>
+   6b- Otherwise, we are ready to go live!!!
+<br><br>
 Update (7/25/14 - 7:34 AM EST): Launch Status: Imminent<br>
 1- Ran Full TestNet Tests For Modified Decay Formula
    1b- Used HardFork 'nForkDelta' Code<br>
