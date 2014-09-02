@@ -1,5 +1,13 @@
 RedOakCoin-Master
 <br><br>
+Update (9/01/14 - 9:33 PM EST): Launch Status: Final Preparations<br>
+1- Pre-Beta PressReleases Being Distributed (Several Slots Still Open)<br>
+2- Refining Formulas Main.cpp InCode::Difficulty Retarget Phases<br>
+2b- Aim: To Avoid Possible Future HardForks With Self-Adjusting System<br>
+3- Re-Compiling Release Binaries<br>
+4- Will Not Be Using MS-Installer Template During Early Stages<br>
+
+<br><br>
 Update (8/16/14 - 1:56 AM EST): Launch Status: Days Away<br>
 1- Uploaded 90% Core /src Files<br>
 2- Withholding Main.Cpp & Main.h until 24-Hrs Prior Launch<br>
